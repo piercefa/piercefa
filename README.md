@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piercefa
-- 👀 I’m interested in learning more machine learning and artificial intelligence. 
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on developing software apps.
+- 👀 I’m interested in learning about all things data analytics and viz. 
+- 🌱 I’m currently drinking coffee.
+- 💞️ I’m looking to develop a personal webpage.
 - 📫 How to reach me alex.feldmeyer@outlook.com
 
 <!---
